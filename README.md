@@ -42,6 +42,12 @@ $ mvnw spring-boot:build-image -DskipTests
 $ docker run -p 8080:8080 abimael/cadastro:0.0.1-SNAPSHOT
 ```
 
+#### Checar se está rodando e parar o Docker
+```bash
+$ docker container ps
+$ docker container stop <CONTAINER ID>
+```
+
 <p align="right">(<a href="#readme-top">Inicio</a>)</p>
 
 ## 📖 Documentation
