@@ -13,20 +13,24 @@ public class BeneficiarioDTO {
 	private LocalDate dataAtualizacao;
 	private Set<DocumentoDTO> documentos;
 
-	public BeneficiarioDTO() {} 
-	
 	public BeneficiarioDTO(Long id, String nome, String telefone, LocalDate dataNascimento, LocalDate dataInclusao,
 			LocalDate dataAtualizacao, Set<DocumentoDTO> documentos) {
-		super();
+		this(nome, telefone, dataNascimento, dataInclusao, dataAtualizacao, documentos);
 		this.id = id;
+	}
+
+	public BeneficiarioDTO(String nome, String telefone, LocalDate dataNascimento, LocalDate dataInclusao,
+			LocalDate dataAtualizacao, Set<DocumentoDTO> documentos) {
 		this.nome = nome;
 		this.telefone = telefone;
 		this.dataNascimento = dataNascimento;
 		this.dataInclusao = dataInclusao;
 		this.dataAtualizacao = dataAtualizacao;
 		this.documentos = documentos;
-	}
+	}	
 	
+	public BeneficiarioDTO() {} 
+
 	public Long getId() {
 		return id;
 	}

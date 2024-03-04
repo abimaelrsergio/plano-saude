@@ -12,17 +12,22 @@ public class DocumentoDTO {
 	private LocalDate dataInclusao;
 	private LocalDate dataAtualizacao;
 
-	public DocumentoDTO() { 
-	}
-
 	public DocumentoDTO(Long id, TipoDocumento tipoDocumento, String descricao, LocalDate dataInclusao,
 			LocalDate dataAtualizacao) {
-		super();
+		this(tipoDocumento, descricao, dataInclusao, dataAtualizacao);
 		this.id = id;
+	}
+
+
+	public DocumentoDTO(TipoDocumento tipoDocumento, String descricao, LocalDate dataInclusao,
+			LocalDate dataAtualizacao) {
 		this.tipoDocumento = tipoDocumento;
 		this.descricao = descricao;
 		this.dataInclusao = dataInclusao;
 		this.dataAtualizacao = dataAtualizacao;
+	}
+
+	public DocumentoDTO() { 
 	}
 
 	public Long getId() {
