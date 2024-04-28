@@ -1,4 +1,64 @@
 <a name="readme-top"></a>
+
+
+# Olá, eu sou a Abimael Sergio! 👋
+
+
+## 🚀 Sobre mim
+Com mais de 20 anos de experiência em engenharia de software, sou um desenvolvedor Java proativo e responsável com foco em sistemas web. Tenho forte conhecimento técnico e um histórico de entrega de sistemas sólidos que aumentam a receita. Estou fazendo Doutorado em Informática e Gestão do Conhecimento pela Uninove, onde pesquiso dinâmica evolutiva para jogos populacionais baseados em autômatos celulares e algoritmos genéticos.
+
+Trabalho como Java Engineer, utilizo Java (Spring Boot) para criar soluções inovadoras e escaláveis para diversos projetos. Estou constantemente me atualizando com as mais novas tecnologias e conceitos do mercado para oferecer a melhor solução possível para os clientes. Sou apaixonado por aprender novas habilidades e resolver problemas desafiadores.
+
+## 🛠 Habilidades
+Hard Skills:\
+• Backend: Java, Spring Boot, Spring Data JPA.\
+• Frontend: HTML, CSS, Bootstrap, JavaScript, Angular.\
+• Aprendendo: AWS, Docker e Kubernetes.\
+• Banco de dados: PostgreSQL, MongoDB, MySQL, Oracle, Microsoft SQL Server, DB2.\
+• Controle de versão: Git.\
+• Sistemas operacionais: Linux, Windows.\
+• Mestrado em Informática.\
+\
+Soft Skills: \
+• Curiosidade.\
+• trabalho em equipe.\
+• proativo.\
+• autodidata.
+
+
+
+## Outras seções comuns em perfis do GitHub
+👩‍💻 Trabalho atualmente na [Turing.com](https://www.turing.com/)
+
+🧠 Estou aprendendo AWS
+
+👯‍♀️ Procuro colaborar no projeto Spring Security
+
+📫 Entre em contato abimaelr.sergio@gmail.com
+
+
+## 🔗 Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abimaelsergio)
+
+## Feedback
+
+Se você tiver algum feedback, por favor nos deixe saber por meio de abimaelr.sergio@gmail.com
+
+
+## Autores
+
+- [@abimaelrsergio](https://github.com/abimaelrsergio)
+
+
+## Licença
+
+[MIT](https://choosealicense.com/licenses/mit/)
+
+### GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abimaelrsergio&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=abimaelrsergio&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+
 # Plano de Saúde
 Aplicação criada com Java e Spring Boot para fornecer uma API REST que mantém o cadastro de beneficiários do um plano de saúde.
 
@@ -181,14 +241,4 @@ Abimael Sergio - [@linkedin](https://www.linkedin.com/in/abimaelsergio/) - abima
 
 <p align="right">(<a href="#readme-top">Inicio</a>)</p>
 
-## 🔗 Links
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abimaelsergio/?locale=pt_BR)
 
-### GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abimaelrsergio&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=abimaelrsergio&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
-
-## 📝 Licença
-
-Este projeto esta sobe a licença MIT.
