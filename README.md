@@ -181,6 +181,9 @@ Abimael Sergio - [@linkedin](https://www.linkedin.com/in/abimaelsergio/) - abima
 
 <p align="right">(<a href="#readme-top">Inicio</a>)</p>
 
+## 🔗 Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abimaelsergio/?locale=pt_BR)
+
 ### GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abimaelrsergio&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
